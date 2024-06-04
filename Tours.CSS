@@ -1,0 +1,29 @@
+/* Step 2: Select a Free Domain */
+#step2 {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+#step2 h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#step2 p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+#step2 a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#step2 a:hover {
+    text-decoration: underline;
+}
